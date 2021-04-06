@@ -10,8 +10,10 @@
     <img align="center" alt="Kaique-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="Kaique-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
     <img align="center" alt="Kaique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique64&theme=radical&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique64&layout=compact)](https://github.com/kaique64/github-readme-stats)
+    <img align="center" alt="Kaique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 
-
+<div>
+      <a href="https://www.linkedin.com/in/kaique-henrique-064b261b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href = "mailto: kaiquehenrique.2005@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=outlook&logoColor=white" target="_blank" /></a>
+</div>

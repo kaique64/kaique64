@@ -8,4 +8,5 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique64&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique64)](https://github.com/kaique64/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaique64)](https://github.com/kaique64/github-readme-stats)
+

@@ -4,9 +4,12 @@
 📍 Sumaré, São Paulo – Brasil  
 
 <div>
-  <a href="https://github.com/kaique64"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaique64&theme=radical&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique64&layout=compact&langs_count=8&theme=radical" />
+</div>
+
+<div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaique64&theme=radical" />
 </div>
 
 ---

@@ -36,9 +36,9 @@
 ### 🧠 Um pouco sobre mim
 
 - Experiência com **microserviços, BFFs e micro-frontends**
-- Atuação com **Kubernetes em ambientes Dev, QA e Produção**
+- Atuação com **Kubernetes**
 - Forte cultura de **qualidade e testes automatizados**
-- Histórico de **otimização de performance** (SQL, pipelines e testes)
+- Histórico de **otimização de performance** (SQL, CI/CD e testes)
 - Sempre buscando soluções **escaláveis, performáticas e bem arquitetadas**
 
 ---

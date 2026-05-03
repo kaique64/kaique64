@@ -1,6 +1,6 @@
 ## 👋 Eae, eu sou o Kaique Henrique
 
-💻 Desenvolvedor de Software Pleno | Java | Quarkus | Spring Boot | Nest.js | React.js  
+💻 Desenvolvedor de Software Pleno | Java | Quarkus | Spring Boot | Nest.js | React.js | Vue.js
 📍 Sumaré, São Paulo – Brasil  
 
 ---

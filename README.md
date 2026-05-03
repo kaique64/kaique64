@@ -1,6 +1,6 @@
 ## 👋 Eae, eu sou o Kaique Henrique
 
-💻 Desenvolvedor de Software Pleno | Full Stack | Cloud Native  
+💻 Desenvolvedor de Software Pleno | Java | Quarkus | Spring Boot | Nest.js | React.js  
 📍 Sumaré, São Paulo – Brasil  
 
 ---
@@ -14,7 +14,7 @@
 ### 🧠 Um pouco sobre mim
 
 - Experiência com **microserviços, BFFs e micro-frontends**
-- Atuação com **Kubernetes**
+- Atuação em ambientes distribuidos com **Kubernetes**
 - Forte cultura de **qualidade e testes automatizados**
 - Histórico de **otimização de performance** (SQL, CI/CD e testes)
 - Sempre buscando soluções **escaláveis, performáticas e bem arquitetadas**
